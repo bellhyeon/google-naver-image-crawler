@@ -23,8 +23,8 @@ chromedriver
 ## Arguments
 - `--site`: site name to crawling images (supports "google", "naver", "구글", and "네이버")
 - `--keyword`: keyword to crawling images
-- `--CCL`: if True, crawl images in commercial license only else crawl all images
-- `--wait`: time to wait (recommend time: google=1.5, naver=3.0)
+- `--CCL`: if True, crawl images in commercial license only. else crawl all images.
+- `--wait`: time to wait (recommended time: google=1.5, naver=3.0)
 ***
 
 ## Getting Started
