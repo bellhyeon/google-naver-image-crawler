@@ -9,7 +9,6 @@
 * Naver
 ***
 ## Requirements
-***
 To run this repository, must meet these requirements. You can download chromedriver at [here](https://chromedriver.chromium.org/downloads)
 ```
 urllib
@@ -29,9 +28,9 @@ chromedriver
 ***
 
 ## Getting Started
-***
 ### Run
 Examples for Google and Naver
+***
 ```shell
 python crawler.py --site "google" --keyword "doraemon" --CCL "True" --wait 1.5
 ```
