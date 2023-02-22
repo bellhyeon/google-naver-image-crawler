@@ -4,7 +4,6 @@
 
 </div>
 
-***
 ## Supported Sites
 * Google
 * Naver
