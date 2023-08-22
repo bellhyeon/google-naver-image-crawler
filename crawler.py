@@ -163,7 +163,7 @@ class ImageCrawler:
                     self.driver.implicitly_wait(self.wait)
                     image_url = self.driver.find_element(
                         By.XPATH,
-                        "//*[@id='Sva75c']/div[2]/div/div[2]/div[2]/div[2]/c-wiz/div/div[1]/div[2]/div[2]/div/a/img",
+                        "//*[@id='Sva75c']/div[2]/div[2]/div[2]/div[2]/c-wiz/div/div/div/div[3]/div[1]/a/img[1]",
                     ).get_attribute("src")
 
                     urllib.request.urlretrieve(
